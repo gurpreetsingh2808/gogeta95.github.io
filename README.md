@@ -1,7 +1,7 @@
-https://the-dagger.github.io/
+http://gogeta95.github.io/
 ======================
 
-Github repo for Harshit Dwivedi's Website
+Github repo for Saurabh Singhal's Website
 
 ## How to create one for your own
 1. Fork the repo
